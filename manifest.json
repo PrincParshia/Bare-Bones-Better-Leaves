@@ -1,0 +1,22 @@
+{
+    "format_version": 2,
+    "metadata": {
+    		"authors": [
+    			"PrincParshia"
+    		]
+    },
+    "header": {
+    		"name": "Bare Bones - Better Leaves",
+        "description": "Enhance leaf visuals!",
+        "uuid": "cffa61bc-8c28-4856-bf64-ab4dd5657dbf",
+        "version": [1, 0, 0],
+        "min_engine_version": [ 1, 21, 0 ]
+    },
+    "modules": [
+        {
+            "type": "resources",
+            "uuid": "4d382108-2419-47b1-9a31-9f01449d070b",
+            "version": [1, 0, 0]
+        }
+    ]
+}
